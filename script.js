@@ -587,7 +587,7 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  'Galaxy of love From Liggar to Nazza',//untuk deskripsi planet layer 1
+  'Galaxy of love to Nazza',//untuk deskripsi planet layer 1
   "I love you",//untuk deskripsi planet layer 2
   "Happy Birthday sayanggkuu",//untuk deskripsi planet layer 3
   "02/05/2026",//untuk deskripsi planet layer 4
